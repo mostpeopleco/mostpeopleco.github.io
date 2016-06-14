@@ -122,6 +122,8 @@ input {
     margin: 0;
     width: 65%; }
   input.button {
+    border: none;
+    background: none;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     background: #181818;

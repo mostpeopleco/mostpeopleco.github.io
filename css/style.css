@@ -117,6 +117,8 @@ input {
     font-size: 18px;
     font-style: italic;
     font-family: georgia, serif;
+    -webkit-appearence: none;
+    border-radius: 0;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     margin: 0;
